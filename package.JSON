@@ -1,0 +1,4 @@
+{
+"key1":"$input.params('key1')",
+"key2":"$input.params('key2')"
+}
